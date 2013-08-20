@@ -36,7 +36,7 @@
  * @package     Maribol Geocode Service v 0.1
  * @author      Samuel Todosiciuc <samuel.todosiciuc@gmail.com>
  * @copyright   2013 Samuel Todosiciuc.
- * @link        http://www.maribol.ro
+ * @link        https://github.com/maribol/
  */
 class GeocodeService
 {
